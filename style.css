@@ -2,8 +2,7 @@ body{
     font-family: 'Vollkorn', serif;
     margin: 0;
 }
-/* ----Start Extra section----- */
-
+/* ----Start Extra 01 section----- */
 ul {
     list-style-type: none;
     margin: 0;
@@ -11,7 +10,6 @@ ul {
     overflow: hidden;
     background-color: #010827;
   }
-  
   li {
     float: left;
   }
@@ -25,7 +23,7 @@ ul {
     text-decoration: none;
   }
   
-/* ----End Extra section----- */
+/* ----End Extra 01 section----- */
 /* ----Start Header section----- */
 .flexble-container{
     display: flex;
