@@ -93,6 +93,41 @@ p{
     box-shadow: 7px 7px 20px #888888;
 }
 /* ----End Recipie section----- */
+/* ----Start Extra section----- */
+
+.extra-section{
+    margin-top: 50px;
+    padding: 50px 0px 70px 0px;
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80%;
+    
+}
+.registration-form h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 40px 0px;
+}
+.registration-form p{
+    margin: 15px 0px 15px 520px;
+    font-size: 20xp;
+    
+}
+.registration-form input{
+    font-size: 18px;
+    padding: 10px 28px;
+    align-items: center;
+    margin-left: 520px;
+}
+.registration-form button{
+    margin: 25px 0px 0px 520px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: white;
+}
+/* ----End Extra section----- */
 
 /* ----Start Footer section----- */
 .footer-area{
